@@ -1,7 +1,7 @@
 # Devolon Messente
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/devolon/messente.svg?style=flat-square)](https://packagist.org/packages/devolon/messente)
-[![Total Downloads](https://img.shields.io/packagist/dt/devolon/messente.svg?style=flat-square)](https://packagist.org/packages/devolon/messente)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/devolon/messente)](https://packagist.org/packages/devolon/messente)
+[![Total Downloads](https://img.shields.io/packagist/dt/devolon/messente)](https://packagist.org/packages/devolon/messente)
 ![GitHub Actions](https://github.com/devolon/messente/actions/workflows/main.yml/badge.svg)
 
 Devolon Messente package provides integration for Messente SMS provider
