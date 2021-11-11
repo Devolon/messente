@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "devolon/laravel-common": "^1.0",
-        "devolon/sms": "^1.0",
+        "devolon/laravel-common": "^2.0",
+        "devolon/sms": "^1.1",
         "messente/messente-api-php": "~1.4"
     },
     "require-dev": {
